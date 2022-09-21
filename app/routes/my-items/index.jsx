@@ -4,7 +4,7 @@ export default function Index() {
   return (
     <div>
       <h1>My Items</h1>
-      <Link to="my-items/new">New Item</Link>
+      <Link to="/my-items/new">New Item</Link>
     </div>
   );
 }
